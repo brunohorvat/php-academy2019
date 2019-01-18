@@ -1,6 +1,6 @@
 <?php
 
-//while works only with boole
+//while works only with boolean
 
 $stayInLoop=true;
 $i=0;

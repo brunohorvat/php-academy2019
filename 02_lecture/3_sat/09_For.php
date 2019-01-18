@@ -15,6 +15,7 @@ for($i=0;$i<100;$i++){
     }
     if($i!=3){
        continue;  //chortcuircuiting
+        break; //shortcuircuiting
     }
 
     echo $i. " Osijek<br/>";
