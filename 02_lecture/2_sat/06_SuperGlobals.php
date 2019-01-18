@@ -1,7 +1,7 @@
 <?php
 
 
-//$GLOBAL An associative array containing references to all variables which are currently defined in the global scope of the script.
+//$GLOBALS An associative array containing references to all variables which are currently defined in the global scope of the script.
 //$_SERVER is an array containing information such as headers, paths, and script locations.
 //$_SESSION An associative array containing session variables available to the current script.
 //$_COOKIE An associative array of variables passed to the current script via HTTP Cookies.
