@@ -11,12 +11,14 @@ mora biti pokazana na početnoj stranici i u detaljima.
 5. Dodavanje novog komentara koji će se nalaziti prvi u popisu
 6. Na početnoj stranici ispisati broj komentara pored svakog posta.
 7. Svaki post se u njegovim detaljima može obrisati.
+8. Staviti config.php u .gitignore file. **Na GitHubu se nikada ne nalaze produkcijski pristupni podaci.**
 
 Poželjne funkcionalnosti
 --------
 1. Upogoniti RWD framework da aplikacija izgleda malo ljepše.
 
 
-Sve promjene na bazi moraju se nalaziti u script.sql datoteci. Kreirati GitHub repozitorij InchooPHPAkademijaZ6.
-Zadaću postaviti na server u mvc direktorij. Aplikacija mora biti dostupna na adresi polazniknnmvc.inchoo4u.net
+Kreirati GitHub repozitorij InchooPHPAkademijaZ6. Sve promjene na bazi moraju se nalaziti u script.sql datoteci.
+Na serveru koristiti bazu polaznikNN_mvc s pristupnim podacima koje ste dobili. 
+Zadaću postaviti na server u mvc direktorij. Aplikacija mora biti dostupna na adresi polazniknnmvc.inchoo4u.net. 
 (Aplikaciju koja se nalazi već u tom direktoriju zbog 5. zadaće zamijeniti s novom verzijom)
