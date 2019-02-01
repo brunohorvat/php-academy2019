@@ -29,5 +29,4 @@ class View
         }
         return $this;
     }
-
 }
