@@ -4,7 +4,8 @@ Obavezne funkcionalnosti
 --------
 
 1. Postove na početnoj stranici poredati tako da se zadnje kreirani nalazi uvijek na prvom mjestu
-2. Uz svaki post se može priložiti i slika u jpg formatu, ali ona nije obavezna prilikom kreiranja
+2. Uz svaki post se može priložiti i slika u jpg formatu, ali ona nije obavezna prilikom kreiranja. Ako je priložena,
+mora biti pokazana na početnoj stranici i u detaljima.
 3. U ispisu postova na početnoj stranici dodati vrijeme nastanka u ovom formatu 01.02.2019. 09:16
 4. Omogućiti pregled komentara za svaki post u njegovim detaljima 
 5. Dodavanje novog komentara koji će se nalaziti prvi u popisu
